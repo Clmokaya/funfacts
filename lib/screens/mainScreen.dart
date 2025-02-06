@@ -24,6 +24,7 @@ class _MainscreenState extends State<Mainscreen> {
       isLoading = false;
       setState(() {});
     } catch (e) {
+      isLoading = false;
       print(e);
     }
   }
