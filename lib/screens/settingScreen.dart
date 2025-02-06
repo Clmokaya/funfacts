@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import 'package:funfacts/screens/widgets/themeSwitcher.dart';
 
 class Settingscreen extends StatefulWidget {
   const Settingscreen({super.key});
@@ -15,6 +16,9 @@ class _SettingscreenState extends State<Settingscreen> {
     return Scaffold(
       appBar: AppBar(
         title: Text('Settings'),
+      ),
+      body: Column(
+        children: [Themeswitcher()],
       ),
     );
   }
