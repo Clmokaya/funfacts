@@ -31,7 +31,7 @@ class _ThemeswitcherState extends State<Themeswitcher> {
                     themeProvider.updateMode(darkMode: value);
                   }),
               SizedBox(
-                width: 18,
+                width: 20,
               ),
               Text(themeProvider.isDarkModeChecked ? 'Dark Mode' : 'Light Mode')
             ],
