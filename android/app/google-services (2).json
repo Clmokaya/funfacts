@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "195721671528",
+    "project_id": "funfacts-8f9b7",
+    "storage_bucket": "funfacts-8f9b7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195721671528:android:0e057cb83f0860cd681cdd",
+        "android_client_info": {
+          "package_name": "com.cmmapps.funfacts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmN9W-QYE7955mW52XZvC_uMc9iTrRKvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
